@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MPL Multi-Detector</string>
+    <string name="ip_address" tools:ignore="Typos">https://admin:ahall@192.168.1.20/m/a/video.html</string>
+</resources>
